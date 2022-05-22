@@ -1,0 +1,9 @@
+{
+    "require": {
+    }
+    ,
+    "require-dev": {
+        "itsgoingd/clockwork": "^5.1",
+        "roave/security-advisories": "dev-latest"
+    }
+}
